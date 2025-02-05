@@ -17,7 +17,7 @@ const ApplySection = () => {
             <Image
               src="/images/silva-method-official-logo.png"
               className="w-[300px] object-cover"
-              alt="Silva Method Logo"
+              alt="Silva Method India Logo"
             />
           </div>
 
